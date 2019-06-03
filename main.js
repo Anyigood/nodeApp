@@ -14,6 +14,3 @@ http.createServer((req, res) => {
 
 
 console.log(`Server is running at ${port}`)
-
-var cars = ["volvo", "Benz", "Spider"]
-console.log(cars)
